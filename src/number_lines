@@ -1,3 +1,4 @@
-# script for numbering the lines of a file
-# modify this script to prepend the next number to each line of the input file
-cat $1
+echo  "hello world"
+echo "bye"
+wc -l number_lines
+
