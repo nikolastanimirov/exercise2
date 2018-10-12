@@ -5,8 +5,7 @@
 2 Create a new branch with your name pointing to the same commit as the master branch
 
 3 Modify the src/number_lines script to number the lines of the input file
- e.g. 1) echo "hello world"
-      2) echo "bye"
+e.g. 1) echo "hello world" 2) echo "bye"
 
 4 Commit your changes
 
